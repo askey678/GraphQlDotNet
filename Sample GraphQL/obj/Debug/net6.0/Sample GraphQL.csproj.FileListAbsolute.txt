@@ -1,0 +1,104 @@
+D:\MyWork\Sample Projects\Sample GraphQL\bin\Debug\net6.0\appsettings.Development.json
+D:\MyWork\Sample Projects\Sample GraphQL\bin\Debug\net6.0\appsettings.json
+D:\MyWork\Sample Projects\Sample GraphQL\bin\Debug\net6.0\Sample GraphQL.exe
+D:\MyWork\Sample Projects\Sample GraphQL\bin\Debug\net6.0\Sample GraphQL.deps.json
+D:\MyWork\Sample Projects\Sample GraphQL\bin\Debug\net6.0\Sample GraphQL.runtimeconfig.json
+D:\MyWork\Sample Projects\Sample GraphQL\bin\Debug\net6.0\Sample GraphQL.dll
+D:\MyWork\Sample Projects\Sample GraphQL\bin\Debug\net6.0\Sample GraphQL.pdb
+D:\MyWork\Sample Projects\Sample GraphQL\bin\Debug\net6.0\Azure.Core.dll
+D:\MyWork\Sample Projects\Sample GraphQL\bin\Debug\net6.0\Azure.Identity.dll
+D:\MyWork\Sample Projects\Sample GraphQL\bin\Debug\net6.0\GraphQL.dll
+D:\MyWork\Sample Projects\Sample GraphQL\bin\Debug\net6.0\GraphQL-Parser.dll
+D:\MyWork\Sample Projects\Sample GraphQL\bin\Debug\net6.0\GraphQL.DataLoader.dll
+D:\MyWork\Sample Projects\Sample GraphQL\bin\Debug\net6.0\GraphQL.MicrosoftDI.dll
+D:\MyWork\Sample Projects\Sample GraphQL\bin\Debug\net6.0\GraphQL.NewtonsoftJson.dll
+D:\MyWork\Sample Projects\Sample GraphQL\bin\Debug\net6.0\GraphQL.Server.Core.dll
+D:\MyWork\Sample Projects\Sample GraphQL\bin\Debug\net6.0\GraphQL.Server.Transports.AspNetCore.dll
+D:\MyWork\Sample Projects\Sample GraphQL\bin\Debug\net6.0\GraphQL.Server.Transports.AspNetCore.SystemTextJson.dll
+D:\MyWork\Sample Projects\Sample GraphQL\bin\Debug\net6.0\GraphQL.Server.Transports.Subscriptions.Abstractions.dll
+D:\MyWork\Sample Projects\Sample GraphQL\bin\Debug\net6.0\GraphQL.Server.Ui.Altair.dll
+D:\MyWork\Sample Projects\Sample GraphQL\bin\Debug\net6.0\GraphQL.SystemReactive.dll
+D:\MyWork\Sample Projects\Sample GraphQL\bin\Debug\net6.0\GraphQL.SystemTextJson.dll
+D:\MyWork\Sample Projects\Sample GraphQL\bin\Debug\net6.0\Humanizer.dll
+D:\MyWork\Sample Projects\Sample GraphQL\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\MyWork\Sample Projects\Sample GraphQL\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\MyWork\Sample Projects\Sample GraphQL\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\MyWork\Sample Projects\Sample GraphQL\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\MyWork\Sample Projects\Sample GraphQL\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\MyWork\Sample Projects\Sample GraphQL\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\MyWork\Sample Projects\Sample GraphQL\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\MyWork\Sample Projects\Sample GraphQL\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\MyWork\Sample Projects\Sample GraphQL\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\MyWork\Sample Projects\Sample GraphQL\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\MyWork\Sample Projects\Sample GraphQL\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\MyWork\Sample Projects\Sample GraphQL\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\MyWork\Sample Projects\Sample GraphQL\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+D:\MyWork\Sample Projects\Sample GraphQL\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+D:\MyWork\Sample Projects\Sample GraphQL\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\MyWork\Sample Projects\Sample GraphQL\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+D:\MyWork\Sample Projects\Sample GraphQL\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+D:\MyWork\Sample Projects\Sample GraphQL\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\MyWork\Sample Projects\Sample GraphQL\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\MyWork\Sample Projects\Sample GraphQL\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+D:\MyWork\Sample Projects\Sample GraphQL\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\MyWork\Sample Projects\Sample GraphQL\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\MyWork\Sample Projects\Sample GraphQL\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\MyWork\Sample Projects\Sample GraphQL\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\MyWork\Sample Projects\Sample GraphQL\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\MyWork\Sample Projects\Sample GraphQL\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\MyWork\Sample Projects\Sample GraphQL\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+D:\MyWork\Sample Projects\Sample GraphQL\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\MyWork\Sample Projects\Sample GraphQL\bin\Debug\net6.0\Mono.TextTemplating.dll
+D:\MyWork\Sample Projects\Sample GraphQL\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\MyWork\Sample Projects\Sample GraphQL\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\MyWork\Sample Projects\Sample GraphQL\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\MyWork\Sample Projects\Sample GraphQL\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\MyWork\Sample Projects\Sample GraphQL\bin\Debug\net6.0\System.CodeDom.dll
+D:\MyWork\Sample Projects\Sample GraphQL\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\MyWork\Sample Projects\Sample GraphQL\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\MyWork\Sample Projects\Sample GraphQL\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\MyWork\Sample Projects\Sample GraphQL\bin\Debug\net6.0\System.Memory.Data.dll
+D:\MyWork\Sample Projects\Sample GraphQL\bin\Debug\net6.0\System.Reactive.Core.dll
+D:\MyWork\Sample Projects\Sample GraphQL\bin\Debug\net6.0\System.Reactive.Linq.dll
+D:\MyWork\Sample Projects\Sample GraphQL\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\MyWork\Sample Projects\Sample GraphQL\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\MyWork\Sample Projects\Sample GraphQL\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\MyWork\Sample Projects\Sample GraphQL\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+D:\MyWork\Sample Projects\Sample GraphQL\bin\Debug\net6.0\System.Text.Json.dll
+D:\MyWork\Sample Projects\Sample GraphQL\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\MyWork\Sample Projects\Sample GraphQL\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\MyWork\Sample Projects\Sample GraphQL\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\MyWork\Sample Projects\Sample GraphQL\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\MyWork\Sample Projects\Sample GraphQL\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\MyWork\Sample Projects\Sample GraphQL\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\MyWork\Sample Projects\Sample GraphQL\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\MyWork\Sample Projects\Sample GraphQL\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\MyWork\Sample Projects\Sample GraphQL\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\MyWork\Sample Projects\Sample GraphQL\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\MyWork\Sample Projects\Sample GraphQL\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\MyWork\Sample Projects\Sample GraphQL\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\MyWork\Sample Projects\Sample GraphQL\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+D:\MyWork\Sample Projects\Sample GraphQL\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\MyWork\Sample Projects\Sample GraphQL\bin\Debug\net6.0\System.Reactive.dll
+D:\MyWork\Sample Projects\Sample GraphQL\bin\Debug\net6.0\System.Reactive.xml
+D:\MyWork\Sample Projects\Sample GraphQL\obj\Debug\net6.0\Sample GraphQL.csproj.AssemblyReference.cache
+D:\MyWork\Sample Projects\Sample GraphQL\obj\Debug\net6.0\Sample GraphQL.GeneratedMSBuildEditorConfig.editorconfig
+D:\MyWork\Sample Projects\Sample GraphQL\obj\Debug\net6.0\Sample GraphQL.AssemblyInfoInputs.cache
+D:\MyWork\Sample Projects\Sample GraphQL\obj\Debug\net6.0\Sample GraphQL.AssemblyInfo.cs
+D:\MyWork\Sample Projects\Sample GraphQL\obj\Debug\net6.0\Sample GraphQL.csproj.CoreCompileInputs.cache
+D:\MyWork\Sample Projects\Sample GraphQL\obj\Debug\net6.0\Sample GraphQL.MvcApplicationPartsAssemblyInfo.cs
+D:\MyWork\Sample Projects\Sample GraphQL\obj\Debug\net6.0\Sample GraphQL.MvcApplicationPartsAssemblyInfo.cache
+D:\MyWork\Sample Projects\Sample GraphQL\obj\Debug\net6.0\staticwebassets.build.json
+D:\MyWork\Sample Projects\Sample GraphQL\obj\Debug\net6.0\staticwebassets.development.json
+D:\MyWork\Sample Projects\Sample GraphQL\obj\Debug\net6.0\staticwebassets\msbuild.Sample GraphQL.Microsoft.AspNetCore.StaticWebAssets.props
+D:\MyWork\Sample Projects\Sample GraphQL\obj\Debug\net6.0\staticwebassets\msbuild.build.Sample GraphQL.props
+D:\MyWork\Sample Projects\Sample GraphQL\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Sample GraphQL.props
+D:\MyWork\Sample Projects\Sample GraphQL\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Sample GraphQL.props
+D:\MyWork\Sample Projects\Sample GraphQL\obj\Debug\net6.0\staticwebassets.pack.json
+D:\MyWork\Sample Projects\Sample GraphQL\obj\Debug\net6.0\scopedcss\bundle\Sample GraphQL.styles.css
+D:\MyWork\Sample Projects\Sample GraphQL\obj\Debug\net6.0\Sample GraphQL.csproj.CopyComplete
+D:\MyWork\Sample Projects\Sample GraphQL\obj\Debug\net6.0\Sample GraphQL.dll
+D:\MyWork\Sample Projects\Sample GraphQL\obj\Debug\net6.0\refint\Sample GraphQL.dll
+D:\MyWork\Sample Projects\Sample GraphQL\obj\Debug\net6.0\Sample GraphQL.pdb
+D:\MyWork\Sample Projects\Sample GraphQL\obj\Debug\net6.0\Sample GraphQL.genruntimeconfig.cache
+D:\MyWork\Sample Projects\Sample GraphQL\obj\Debug\net6.0\ref\Sample GraphQL.dll
